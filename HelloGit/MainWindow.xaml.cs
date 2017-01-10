@@ -31,6 +31,10 @@ namespace HelloGit
             {
                 Console.WriteLine("this is unloaded event");
             };
+            ManipulationDelta += (o, a) => 
+            {
+                Console.WriteLine("manipulation delta event");
+            };
         }
     }
 }
