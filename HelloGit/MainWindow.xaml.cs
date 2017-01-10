@@ -35,6 +35,10 @@ namespace HelloGit
             {
                 Console.WriteLine("manipulation delta event");
             };
+            TouchDown += (o, a) => 
+            {
+                Console.WriteLine("touch down event");
+            };
         }
     }
 }
