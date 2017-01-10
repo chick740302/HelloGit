@@ -25,7 +25,11 @@ namespace HelloGit
             InitializeComponent();
             Loaded += (o, a) => 
             {
-                Console.WriteLine("User interface loaded completed");
+                Console.WriteLine("this is loaded event");
+            };
+            Unloaded += (o, a) => 
+            {
+                Console.WriteLine("this is unloaded event");
             };
         }
     }
