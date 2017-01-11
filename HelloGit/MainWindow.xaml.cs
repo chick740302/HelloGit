@@ -23,7 +23,7 @@ namespace HelloGit
         public MainWindow()
         {
             InitializeComponent();
-            Console.WriteLine("try it");
+            Console.WriteLine("try it 1");
             Loaded += (o, a) => 
             {
                 Console.WriteLine("User interface loaded completed");
