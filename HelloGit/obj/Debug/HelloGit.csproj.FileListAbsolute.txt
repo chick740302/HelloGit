@@ -1,0 +1,14 @@
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\bin\Debug\HelloGit.exe.config
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\bin\Debug\HelloGit.exe
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\bin\Debug\HelloGit.pdb
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.csprojResolveAssemblyReference.cache
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\MainWindow.g.cs
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\App.g.cs
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\HelloGit_MarkupCompile.cache
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\HelloGit_MarkupCompile.lref
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\MainWindow.baml
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.g.resources
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.Properties.Resources.resources
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.csproj.GenerateResource.Cache
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.exe
+C:\Users\chick740302\Documents\Visual Studio 2015\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.pdb

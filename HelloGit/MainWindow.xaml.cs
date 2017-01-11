@@ -27,6 +27,7 @@ namespace HelloGit
             Loaded += (o, a) => 
             {
                 Console.WriteLine("User interface loaded completed");
+                Console.WriteLine("try it 2");
             };
         }
     }
